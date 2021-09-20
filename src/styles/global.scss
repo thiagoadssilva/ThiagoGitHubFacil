@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px 'Helvetica Neue', Arial, sans-serif;
+  color: #f8f9fa;
+  background: #ccc;
+}
+
+/* Theme Dark */
+.footerOne-dark {
+  background: #212529;
+  color: #f8f9fa;
+}
+
+.card-dark {
+  background: #6c757d;
+}
+
+.input-light {
+}
+
+.input-dark {
+  background: #f8f9fa;
+}
+
+.card-light {
+  background: #c6c5b9;
+  color: #212529;
+}
+
+.button-light {
+  background: #62929e;
+}
+
+.button-dark {
+  background: #212529;
+}
+
+.footerOne-light {
+  background: #62929e;
+  color: #212529;
+}
+
+.gitHub-dark .linkedin-dark {
+  color: #f8f9fa;
+}
+
+.linkedin-light .gitHub-light {
+  color: #212529;
+}

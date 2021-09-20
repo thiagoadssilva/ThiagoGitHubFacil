@@ -1,0 +1,25 @@
+.footerOne {
+  position: fixed;
+  bottom: 0;
+  //background-color: #0d0900;
+  width: 100%;
+  height: 40px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.github {
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+  //color: #ccc;
+}
+
+.linkedin {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+  //color: #ccc;
+}
