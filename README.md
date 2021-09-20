@@ -2,14 +2,14 @@
 
 <hr>
 
-![Tela Principal](/images/01.png)
+![Tela Principal](/images/01.PNG)
 
 <hr>
 
-![Tela Principal](/images/02.png)
+![Tela Principal](/images/02.PNG)
 
 <hr>
 
-![Tela Principal](/images/03.png)
+![Tela Principal](/images/03.PNG)
 
 <hr>
